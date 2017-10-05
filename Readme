@@ -1,1 +1,8 @@
 Frequency Anlysis of Project Gutenberg eBooks
+
+How to use
+----------
+
+1.download ebooks from project gutenburg http://www.gutenberg.org/
+2.save the plain text as a ".txt" file in the folder given
+3.run jupyter notebook http://jupyter.readthedocs.io/en/latest/install.html
